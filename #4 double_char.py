@@ -9,3 +9,4 @@ def double_char(s):
 
 
 print(double_char("Hey Kappa Kappa Hey Kappa! Testing method"))   # test
+
