@@ -1,1 +1,1 @@
-Here I will push some basics Python scripts that I've created during learning Python ;)
+Here I will push some basic Python scripts that I've created during learning Python ;)
